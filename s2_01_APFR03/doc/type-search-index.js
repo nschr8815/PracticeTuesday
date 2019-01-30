@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"s2_01_APFR03","l":"CodeWordChecker"},{"p":"s2_01_APFR03","l":"Runner"},{"p":"s2_01_APFR03","l":"StringChecker"}]
